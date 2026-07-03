@@ -1,1 +1,1 @@
-print('i love VKSN!!!')
+print(8+9)
